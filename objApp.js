@@ -1,3 +1,3 @@
 var a = require('./objmessage.js');
 
-console.log(a.simpleMessage);
+console.log(a.SimpleMessage);
